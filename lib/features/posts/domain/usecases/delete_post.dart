@@ -1,4 +1,4 @@
-import '../repositories/post_repository.dart';
+import '../repositories/post_repositorie.dart';
 import 'package:dartz/dartz.dart';
 
 import '../../../../core/exceptions/failures.dart';

@@ -2,7 +2,7 @@ import 'package:dartz/dartz.dart';
 
 import '../../../../core/exceptions/failures.dart';
 import '../entities/post.dart';
-import '../repositories/post_repository.dart';
+import '../repositories/post_repositorie.dart';
 
 class UpdatePostUsecase {
   final PostsRepository repository;
